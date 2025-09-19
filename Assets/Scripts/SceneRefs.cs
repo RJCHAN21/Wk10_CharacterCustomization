@@ -6,5 +6,6 @@ public class SceneRefs : MonoBehaviour
     [Header("UI")]
     public GameObject mainMenuUI;
     public GameObject inGameUI;
+    public GameObject inGameScreen;
     public GameObject inGameNameText;
 }
